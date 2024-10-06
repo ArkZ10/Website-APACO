@@ -153,5 +153,5 @@ window.addEventListener('load', function() {
 
 
 document.getElementById('menu').addEventListener('click', function() {
-    window.location.href = '../story3/story3.html';
+    window.location.href = '../story3/preparation.html';
 });
